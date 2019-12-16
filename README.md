@@ -3,8 +3,8 @@
 """
 利用决策树算法进行分类 作者：梁鹤逸 日期：2019.12.14 
 """
-import pandas as pd
 # 调入需要用的库 
+import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt 
 import matplotlib.cm as cm 
